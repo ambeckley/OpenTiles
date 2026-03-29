@@ -2,6 +2,11 @@
 
 An open-source iOS rhythm game inspired by Piano Tiles. Tap falling tiles in time with the music to score points, build combos, and earn stars.
 
+## Download
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/opentiles/id6761224877)
+
+
 ## Features
 
 - **3 Game Modes** — Normal, Endless, and Practice
